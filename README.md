@@ -10,11 +10,10 @@
 
 - 🌱 I’m currently learning **Django, Django Rest Framework**
 
-- 📝 I regularly write articles on [https://harshkaithwas.blogspot.com/](https://harshkaithwas.blogspot.com/)
 
 - 💬 Ask me about **Python, Django, Django Rest Framework**
 
-- 📫 How to reach me **Kaithwasharsh4@gmail.com**
+- 📫 How to reach me **Kaithwasharsh4@gmail.com**, **+91 8299031884**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
