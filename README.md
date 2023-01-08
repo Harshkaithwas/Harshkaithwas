@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh kaithwas</h1>
 <h3 align="center">A passionate backtend developer from India</h3>
-<img align="center" src="https://wallpaperaccess.com/full/1672459.jpg" >
+<img align="center"  alt="Coding" width="400" src="https://wallpaperaccess.com/full/1672459.jpg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkaithwas&label=Profile%20views&color=0e75b6&style=flat" alt="harshkaithwas" /> </p>
 
