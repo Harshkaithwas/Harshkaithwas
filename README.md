@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://miro.medium.com/max/828/1*RAsZ2uD3ZO7-NCuK2MUILA.gif)]
 <h1 align="center">Hi 👋, I'm Harsh kaithwas</h1>
 <h3 align="center">A passionate backtend developer from India</h3>
 <img align="center" src="https://wallpaperaccess.com/full/1672459.jpg" >
