@@ -1,4 +1,4 @@
-<img align="center" width="1000 src="https://miro.medium.com/max/828/1*RAsZ2uD3ZO7-NCuK2MUILA.gif" >
+<img align="center"  width="500" height="600" src="https://miro.medium.com/max/828/1*RAsZ2uD3ZO7-NCuK2MUILA.gif" >
 <!-- [![MasterHead](https://miro.medium.com/max/828/1*RAsZ2uD3ZO7-NCuK2MUILA.gif|width=1000)] -->
 <h1 align="center">Hi 👋, I'm Harsh kaithwas</h1>
 <h3 align="center">A passionate backtend developer from India</h3>
