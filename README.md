@@ -13,11 +13,9 @@
 
 - 💬 Ask me about **Python, Django, Django Rest Framework**
 
-- 📫 How to reach me **Kaithwasharsh4@gmail.com**, **+91 8299031884**
+- 📫 How to reach me **Kaithwasharsh4@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
